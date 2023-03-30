@@ -1,0 +1,9 @@
+ru\madeira\weatherservice\controller\WeatherForecastController.class
+ru\madeira\weatherservice\WeatherServiceApplication.class
+ru\madeira\weatherservice\exception\WeatherApiConnectException.class
+ru\madeira\weatherservice\integration\WeatherApiClient.class
+ru\madeira\weatherservice\model\TemperatureUnits.class
+ru\madeira\weatherservice\config\WebConfiguration.class
+ru\madeira\weatherservice\integration\WeatherForecastParser.class
+ru\madeira\weatherservice\exception\GlobalExceptionHandler.class
+ru\madeira\weatherservice\model\WeatherForecast.class

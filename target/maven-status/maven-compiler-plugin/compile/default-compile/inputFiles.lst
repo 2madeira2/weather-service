@@ -1,0 +1,11 @@
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\config\WebConfiguration.java
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\model\WeatherForecast.java
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\controller\WeatherForecastController.java
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\WeatherServiceApplication.java
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\integration\WeatherForecastParser.java
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\exception\WeatherApiConnectException.java
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\validation\TemperatureTypeUnitConstraint.java
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\validation\TemperatureTypeUnitValidator.java
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\model\TemperatureUnits.java
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\exception\GlobalExceptionHandler.java
+C:\Users\dmitr\IdeaProjects\AIS\weather-service\src\main\java\ru\madeira\weatherservice\integration\WeatherApiClient.java

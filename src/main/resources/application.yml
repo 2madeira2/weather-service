@@ -1,0 +1,6 @@
+server:
+  port: ${SERVER_PORT:8083}
+weather:
+  api:
+    base-url: http://api.weatherapi.com/v1
+    key: fe0467a2506c4fd1903122841232903
